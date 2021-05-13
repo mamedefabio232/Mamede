@@ -1,7 +1,7 @@
 # Mamede
 
 
-> 👋 Hi, I’m
+- > 👋 Hi, I’m
 - > 👀 Estou aprendendo programaçao em lua
 - > 🌱 I’m currently learning a desenvolver scripts
 - > 💞️ I’m looking crescer na carreira de programador para jogos
